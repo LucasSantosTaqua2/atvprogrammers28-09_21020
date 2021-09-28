@@ -1,0 +1,16 @@
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaRepeticao\ATV2809\bin\Debug\net5.0\ATV2809.exe
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaRepeticao\ATV2809\bin\Debug\net5.0\ATV2809.deps.json
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaRepeticao\ATV2809\bin\Debug\net5.0\ATV2809.runtimeconfig.json
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaRepeticao\ATV2809\bin\Debug\net5.0\ATV2809.runtimeconfig.dev.json
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaRepeticao\ATV2809\bin\Debug\net5.0\ATV2809.dll
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaRepeticao\ATV2809\bin\Debug\net5.0\ref\ATV2809.dll
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaRepeticao\ATV2809\bin\Debug\net5.0\ATV2809.pdb
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaRepeticao\ATV2809\obj\Debug\net5.0\ATV2809.csproj.AssemblyReference.cache
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaRepeticao\ATV2809\obj\Debug\net5.0\ATV2809.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaRepeticao\ATV2809\obj\Debug\net5.0\ATV2809.AssemblyInfoInputs.cache
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaRepeticao\ATV2809\obj\Debug\net5.0\ATV2809.AssemblyInfo.cs
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaRepeticao\ATV2809\obj\Debug\net5.0\ATV2809.csproj.CoreCompileInputs.cache
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaRepeticao\ATV2809\obj\Debug\net5.0\ATV2809.dll
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaRepeticao\ATV2809\obj\Debug\net5.0\ref\ATV2809.dll
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaRepeticao\ATV2809\obj\Debug\net5.0\ATV2809.pdb
+E:\Projetos\ams\1_ano\SEMESTRE2\EstruturaRepeticao\ATV2809\obj\Debug\net5.0\ATV2809.genruntimeconfig.cache
